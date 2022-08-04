@@ -5,7 +5,7 @@ Sharpen my JavaScript skills by building 15 projects using plain JavaScript with
 
 Projects
 
-[Color Flipper](https://flipthecolors.netlify.app/)
+1. Color Flipper (https://flipthecolors.netlify.app/)
 
 2. Counter
 
