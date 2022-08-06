@@ -7,7 +7,7 @@ Projects
 
 1. Color Flipper (https://flipthecolors.netlify.app/)
 
-2. Counter
+2. Counter (https://countercolored.netlify.app/)
 
 3. Reviews
 
