@@ -9,7 +9,7 @@ Projects
 
 2. Counter (https://countercolored.netlify.app/)
 
-3. Reviews
+3. Reviews (https://reviewpersons.netlify.app/)
 
 4. Navbar
 
