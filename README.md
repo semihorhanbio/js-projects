@@ -11,7 +11,7 @@ Projects
 
 3. Reviews (https://reviewpersons.netlify.app/)
 
-4. Navbar
+4. Navbar (https://basicnavbarwithjs.netlify.app/)
 
 5. Sidebar
 
