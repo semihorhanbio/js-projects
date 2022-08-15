@@ -13,7 +13,7 @@ Projects
 
 4. Navbar (https://basicnavbarwithjs.netlify.app/)
 
-5. Sidebar
+5. Sidebar (https://basic-sidebarwithjs.netlify.app/)
 
 6. Modal
 
